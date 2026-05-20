@@ -2,14 +2,14 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #a3a3a3;
+    background-color: #ffffff;
     color: #333;
     text-align: center;
 }
 
 header {
-    background-color: #9a0000;
-    color: rgb(109, 1, 1);
+    background-color: #0067cd;
+    color: rgb(255, 255, 255);
     padding: 20px;
 }
 
@@ -19,7 +19,7 @@ main {
 
 a {
     display: inline-block;
-    background-color: #a91616;
+    background-color: #828282;
     color: rgb(0, 0, 0);
     padding: 10px 20px;
     text-decoration: none;
@@ -32,7 +32,7 @@ a:hover {
 }
 
 footer {
-    background-color: #9b0000;
+    background-color: #0073ff;
     color: rgb(0, 0, 0);
     padding: 10px;
     position: fixed;
