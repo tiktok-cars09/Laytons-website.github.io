@@ -2,14 +2,14 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f9;
+    background-color: #a3a3a3;
     color: #333;
     text-align: center;
 }
 
 header {
-    background-color: #4a90e2;
-    color: white;
+    background-color: #9a0000;
+    color: rgb(109, 1, 1);
     padding: 20px;
 }
 
@@ -19,8 +19,8 @@ main {
 
 a {
     display: inline-block;
-    background-color: #4a90e2;
-    color: white;
+    background-color: #a91616;
+    color: rgb(0, 0, 0);
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 5px;
@@ -28,12 +28,12 @@ a {
 }
 
 a:hover {
-    background-color: #357abd;
+    background-color: #5d5d5d;
 }
 
 footer {
-    background-color: #333;
-    color: white;
+    background-color: #9b0000;
+    color: rgb(0, 0, 0);
     padding: 10px;
     position: fixed;
     bottom: 0;
